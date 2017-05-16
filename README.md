@@ -1,2 +1,2 @@
 # monitor-cardiaco
-Códigos fonte da interface de visualização do sinal e também das instruções programadas no microcontrolador
+Códigos fonte da interface de visualização do sinal, instruções programadas no microcontrolador e também esquemáticos dos circuitos do protótipo de monitor cardíaco
